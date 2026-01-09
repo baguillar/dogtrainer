@@ -1,0 +1,25 @@
+# .env
+# Variables de entorno para DogTrainer
+
+# Base de Datos
+DB_HOST=localhost
+DB_USER=qqxbjuzr_soletevip
+DB_PASSWORD=Ev3nt0s+Guau
+DB_NAME=qqxbjuzr_vip
+
+# Redsys
+REDSYS_MERCHANT_CODE=368639589
+REDSYS_TERMINAL=001
+REDSYS_SECRET_KEY=sq7HjrUOBfKmC576ILgskD5srU870gJ7
+REDSYS_URL_PROD=https://sis.redsys.es/sis/realizarPago
+
+# Google Gemini API
+API_KEY=tu_clave_gemini_aqui
+
+# Aplicación
+APP_ENV=production
+APP_URL=https://vip.eventosguau.es
+APP_DEBUG=false
+
+# CORS
+ALLOWED_ORIGINS=http://localhost:5173,https://tu-dominio.com
