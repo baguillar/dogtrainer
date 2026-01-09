@@ -1,0 +1,10 @@
+
+{
+  "name": "Eventos GUAU - Dog Personal Trainer",
+  "description": "Sistema profesional de entrenamiento canino con IA, biblioteca de videos, suscripciones Redsys y panel de administración.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
